@@ -11,6 +11,8 @@ import { WorldGen } from "./WorldGen";
         ["#dve_shape_id", "#dve_box"],
         ["#dve_check_collisions", true],
         ["#dve_collider_id", "#dve_box"],
+        ["#dve_is_light_source", true],
+        ["#dve_light_value", [15, 15, 15]],
         ["#dve_hardness", 100_0000],
         ["#dve_material", "stone"],
       ],
